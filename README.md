@@ -99,3 +99,12 @@ This is a real-time collaborative whiteboard application where users can create 
    Undo/redo the last action.
    See other users' cursors moving in real-time.
    Collaborate through live chat.
+
+
+![Alt text](ui/Screenshot%20(271).png "login page")
+![Alt text](ui/Screenshot%20(272).png "Main page")
+![Alt text](ui/Screenshot%20(273).png "second personjoin page")
+![Alt text](ui/Screenshot%20(274).png "broadcast page")
+![Alt text](ui/Screenshot%20(275).png " page")
+![Alt text](ui/Screenshot%20(276).png "Drawing page")
+![Alt text](ui/Screenshot%20(277).png "Chart page")
